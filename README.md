@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project consists of a blog where articles can be created. Its purpose was mostly to learn about the Ruby language and the Rails framework 
 
-Things you may want to cover:
+You can take a look at the blog at https://sheltered-ravine-65982.herokuapp.com/
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
